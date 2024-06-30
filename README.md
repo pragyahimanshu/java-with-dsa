@@ -77,5 +77,5 @@ Optimal substructure and overlapping subproblems
 Problems on dynamic programming
 
 # Resources and references
-https://github.com/pragyahimanshu/java-with-dsa/edit/main/README.md
+https://github.com/pragyahimanshu/java-with-dsa
 https://www.apnacollege.in/course/alpha-plus
